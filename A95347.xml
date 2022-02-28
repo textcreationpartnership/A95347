@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tub-preachers overturn'd or Independency to be abandon'd and abhor'd as destructive to the majestracy and ministery, of the church and common-wealth of England. Proved in a satisfactory answer to a lybellous pamphlet, intituled A letter to Mr Thomas Edwards, with an infamous dedication. Shewing the vanity, folly, madness of the deboyst buff-coat, mechanick frize-coat, lay illiterate men and women, to usurpe the ministery, and audaciously vent their own hereticall opinions, in their hous- (alias tub) -- preachings. viz. Wiet a cobler. Robine a sadler. Sammon a sho-maker. Barde a smith. Kiffin a glover. Patience a taylor. Tue a girdler. Wilkin the meal-man. Fletcher a cooper. Hobson a taylor. Oates a button-maker. Ives a box-maker. Barbone a lether-seller. Parvis a gold-smith. Lamb a sope-boyler. Bignall a porter. Henshaw a confectioner, alias infectioner. Bulcher a chicken-man. Hawes a broaker. Duper a cow-keeper. Reader, I cannot inform thee of their christen names because 'tis questionable whether they have any.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95347</idno>
+            <idno type="STC">Wing T3207</idno>
+            <idno type="STC">Thomason E384_7</idno>
+            <idno type="STC">ESTC R201446</idno>
+            <idno type="EEBO-CITATION">99861955</idno>
+            <idno type="PROQUEST">99861955</idno>
+            <idno type="VID">114101</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114101)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E384[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tub-preachers overturn'd or Independency to be abandon'd and abhor'd as destructive to the majestracy and ministery, of the church and common-wealth of England. Proved in a satisfactory answer to a lybellous pamphlet, intituled A letter to Mr Thomas Edwards, with an infamous dedication. Shewing the vanity, folly, madness of the deboyst buff-coat, mechanick frize-coat, lay illiterate men and women, to usurpe the ministery, and audaciously vent their own hereticall opinions, in their hous- (alias tub) -- preachings. viz. Wiet a cobler. Robine a sadler. Sammon a sho-maker. Barde a smith. Kiffin a glover. Patience a taylor. Tue a girdler. Wilkin the meal-man. Fletcher a cooper. Hobson a taylor. Oates a button-maker. Ives a box-maker. Barbone a lether-seller. Parvis a gold-smith. Lamb a sope-boyler. Bignall a porter. Henshaw a confectioner, alias infectioner. Bulcher a chicken-man. Hawes a broaker. Duper a cow-keeper. Reader, I cannot inform thee of their christen names because 'tis questionable whether they have any.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Lindsey and are to be sold at his shop over against London-stone.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: A letter to Mr. Tho. Edwards (Wing L1721).</note>
+                  <note>Annotation on Thomason copy: "Aprill 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Edwards, Thomas, 1599-1647 --  Early works to 1800.</term>
+               <term>Letter to Mr. Tho. Edwards --  Early works to 1800.</term>
+               <term>Congregationalism --  Early works to 1800.</term>
+               <term>Independent churches --  England --  Early works to 1800.</term>
+               <term>Lay preaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114101:1" rendition="simple:additions"/>
+            <p>Tub-preachers overturn'd OR <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndependency to be abandon'd and abhor'd <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s deſtructive to the Majeſtracy and Miniſtery, of the Church and Common-wealth of England.</p>
+            <p>Proved in a ſatisfactory Anſwer to a Lybellous Pamphlet, Intituled <hi>A Letter to Mr Thomas Edwards, with an infamous Dedication.</hi>
+            </p>
+            <p>Shewing the Vanity, folly, madneſs of the deboyſt Buff-coate, Mechanick Frize-coat, Lay illiterate men and wo<g ref="char:EOLhyphen"/>men, to uſurpe the Miniſtery, and Audaciouſly vent their own Hereticall opinions, in their houſ-<hi>(alias</hi> Tub)—Preachings. <hi>viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Wiet</hi> a Cobler.</item>
+               <item>
+                  <hi>Robine</hi> a Sadler.</item>
+               <item>
+                  <hi>Sammon</hi> a Sho-maker.</item>
+               <item>
+                  <hi>Barde</hi> a Smith.</item>
+               <item>
+                  <hi>Kiffin</hi> a Glover.</item>
+               <item>
+                  <hi>Patience</hi> a Taylor.</item>
+               <item>
+                  <hi>Tue</hi> a <hi>Girdler.</hi>
+               </item>
+               <item>
+                  <hi>Willkin</hi> the Meal-man.</item>
+               <item>
+                  <hi>Fletcher</hi> a Cooper.</item>
+               <item>
+                  <hi>Hobſon</hi> a Taylor.</item>
+               <item>
+                  <hi>Oates</hi> a Button-maker.</item>
+               <item>
+                  <hi>Ives</hi> a Box-maker.</item>
+               <item>
+                  <hi>Barbone</hi> a Lether-ſeller.</item>
+               <item>
+                  <hi>Parvis</hi> a Gold-ſmith.</item>
+               <item>
+                  <hi>Lamb</hi> a Sope-boyler.</item>
+               <item>
+                  <hi>Bignall</hi> a Porter.</item>
+               <item>
+                  <hi>Henſhaw</hi> a Confectioner, <hi>alias</hi> infectioner.</item>
+               <item>
+                  <hi>Bulcher</hi> a Chicken-man.</item>
+               <item>
+                  <hi>Hawes</hi> a Broaker.</item>
+               <item>
+                  <hi>Duper</hi> a Cow-keeper.</item>
+            </list>
+            <p>Reader, I cannot inform thee of their chriſten names becauſe 'tis queſtionable whether they have any.</p>
+            <q>
+               <bibl>Jude ver. 13.</bibl> 
+               <p>Raging waves of the Sea, foaming out their own ſhame, wan<g ref="char:EOLhyphen"/>dring ſtars, to whom is reſerved the blackneſs of Darkneſs for ever.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Lindſey</hi> and are to be ſold at his ſhop over againſt <hi>London-ſtone.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:114101:2"/>
+            <pb n="3" facs="tcp:114101:2"/>
+            <head>Tub-Preachers overturned, or Independency to be abandoned and ab<g ref="char:EOLhyphen"/>horred, as deſtructive to the Magiſtracy and Miniſtry of the Church and Com<g ref="char:EOLhyphen"/>mon—wealth of ENGLAND: Proved in a ſatisfactory Anſwer to a Li<g ref="char:EOLhyphen"/>bellous Pamphlet, (Intituled, <hi>A Letter to Mr</hi> Thomas Edwards <hi>with an infamous Dedication.)</hi>
+            </head>
+            <opener>
+               <salute>SIR, Worthy Sir, Reverend, Honoured, Grave, Dear Friend, Father, Good Maſter.</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>E cannot wonder at the loftineſs of your looks, nor at the exorbitant humour of your ſpirit, when we find you ſo wofully beſpatte<g ref="char:EOLhyphen"/>red and courted from every part of the King<g ref="char:EOLhyphen"/>dom, where Sathan we fear hath his Throne.</hi>
+            </p>
+            <p>Sirrah, you the Dictator, that in the firſt word and line call your ſelf we, what lofti<g ref="char:EOLhyphen"/>neſs of looks; what humor of ſpirit behold you in Maſter <hi>Edwards,</hi> or how wofully be ſpattered and courted from every part of the Kingdm, which is (in the firſt place) a<g ref="char:EOLhyphen"/>mongſt your too too many Errors, a Contradiction; to be beſpattered and yet courted. Sir, I verily beleeve good Mr
+<pb n="4" facs="tcp:114101:3"/>
+               <hi>Edwards</hi> (as in your ridiculous title) is firſt good in with<g ref="char:EOLhyphen"/>ſtanding to your face your moſt blaſphemous evils: ſecondly Maſter, becauſe by him you are ta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght to amend your man<g ref="char:EOLhyphen"/>ners both of words and doctrines: Sir, He ſets the ſadle up<g ref="char:EOLhyphen"/>on the right hoſe, and has rid you till your gall<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d backs com<g ref="char:EOLhyphen"/>pell you to kick.</p>
+            <p>
+               <hi>But, ſay you, theſe courtings come from every part of the Kingdom, where Sathan, you fear, hath his Throne.</hi> By which I hope, though ye, like him, have name and nature; for name legions, nature compaſſing all the parts of this Kingdom; So, like to him, ſhal you fall like lightning: if ye have two natures this is one of a Sectary.</p>
+            <p>The erring ſpirit transforms and makes to vary</p>
+            <p>From what men ſhould, do moſt, yea quite contrary.</p>
+            <p>
+               <hi>Page 1. line 12. Our thoughts are extreamly divided; we know not well whether to look upon you under the blindneſs of a deluded brother, or perverſeneſs of a reſolved enemy; ha<g ref="char:EOLhyphen"/>ving once (we once beleeved) received the knowledg of the truth, we will put our charity on the tenters (as you have put the Covenant).</hi> What ribble rabble is this.</p>
+            <p>Sir, I truly beleeve your thoughts are extreamly divided, ſo your hearts, your judgments, I ſpare to ſay your wives: Diviſion is your delightful Harmony; your muſick's Con<g ref="char:EOLhyphen"/>cord: your thoughts, hearts, houſholds, Churches are divi<g ref="char:EOLhyphen"/>ded. <hi>You look upon him under the blindneſs of a deluded bro<g ref="char:EOLhyphen"/>ther, yet ye beleeve he once received the knowledg of the truth.</hi> In this ſee your own blindneſs which your wall-eyes look under; Not all your deluſions of profits, advancements, which your party hath encroached upon in your new moul<g ref="char:EOLhyphen"/>ded Church-Conventicle-gatherings, could be able to ſhake his foundation; nor could he, having once the knowledg of the truth, be deceived by your errors by all your glozing ſpecious pretences of New-Light, Chriſt upon his Throne, Godly Party, Free-grace, Saints, Comfort of beleevers, Divine Light, Pilgrim of the Saints, and Honey-comb, and a thouſand ſweet lyes in them to have a man go ſlumbring to hell in a feather-bed.
+<pb n="5" facs="tcp:114101:3"/>
+If Mr <hi>Edwards</hi> recites to the world the ungodly blaſphe<g ref="char:EOLhyphen"/>mous unworthyneſs of your ways in your own Dialect: you fell fouly with him, and cry out Perſecution, the ruine of the Saints, <hi>&amp;c.</hi> As though you ſhould go on in your crooked erroneous paths uncontrouled or unrecalled, and then if you afford him (as you have but few) a good thought or word, you ſtretch your charity upon the tenters as he the Cove<g ref="char:EOLhyphen"/>nant, when it is notoriouſly known there hath not been in any age in Chriſtendom like Covenant-breakers to your ſelves Malignants or others, for which I thus brand you.</p>
+            <lg>
+               <l>The Independent Crew, throughout this Nation,</l>
+               <l>With eagerneſs purſue a Toleration</l>
+               <l>For all Religions; break their Covenant</l>
+               <l>They once did make with <hi>God,</hi> true Proteſtant</l>
+               <l>Religion to maintain; Sects Hereſy,</l>
+               <l>To 'bandon and extirpate Popery,</l>
+               <l>Blaſphemy, Avarice, by which I gather</l>
+               <l>You THEN, Delinquents were, NOW, perjur'd rather. <note n="*" place="margin">If you rock not the Cove<g ref="char:EOLhyphen"/>nant.</note>
+               </l>
+            </lg>
+            <p>
+               <hi>Page firſt, line laſt, Sir in the ſo deſperate Carreer, give us leave ſadly to ask you whence and whither ſo faſt?</hi> Sir, I ſhal gladly reſolve you, this poſt-haſt is to overtake you that ſo madly gallop into all the parrs of this Kingdom, where you have vented your blaſphemies the doctrine of devils; there<g ref="char:EOLhyphen"/>fore ask you, ſo I beleeve, Sathan may be truly ſaid to have his Throne there; where ye have crept into widdows houſes, and have bewitched or deceived ſilly women, men and wo<g ref="char:EOLhyphen"/>men ſervants, children; and ſince your entrance ye have, like <hi>Fezabel,</hi> painted your brazen fac'd pretences, and look out of thoſe uppermoſt windows. No wonder then if Mr <hi>Edwards,</hi> like <hi>Jehu,</hi> drive on furiouſly for your outhrowing and deſtruction; putting behind him all your meſſengers of threats and flatteries) to peace with you; I dare be bold to affirm, (if ye perſiſt) that if the dogs lick not up your blood yet the black Ravens of the valley ſhall pick out your eyes.</p>
+            <p>
+               <pb n="6" facs="tcp:114101:4"/>
+               <hi>Page 2. line 14. God ſhal ſmite thee, thou whited wall, that thut in the pride of thy heart flyeſt in his face and ſtrikeſt at the very apple of his eye.</hi>
+            </p>
+            <p>Sirrah, call you zealous Mr <hi>Edwards</hi> a whited wall? Sir, pray obſerve the Apoſtles doctrine and fellowſhip, judge your ſelves: and then if your feared conſcience and judg<g ref="char:EOLhyphen"/>ment blinded through too too much New-Light, Ile inform them and tell truth: Your painted Sepulchres, nought but ignomy and hollow-hearted rottenneſs within; a noiſome cage of unclean birds, I ſhould ſay beaſts. Sir, cal not your party (that brood of crocodiles) the very apple of Gods eye, for very ſhame, to them that know you to be the devils ſpectacles; but becauſe hees old and craſed, your New-Lights <hi>(alias</hi> old Hereſies and Blaſphemies long ſince adjudged and condemned by all former Councels and Sinods) makes him behold you the clearer; you, Sir, are Arrians, Antinomians, Li<g ref="char:EOLhyphen"/>bertines, Soul-ſleepers, Anti baptiſts, Socinians, Pelagians, Self-ſeckers.</p>
+            <p>Are theſe, dare ye ſay, the very apple of Gods eye? No, Ile tell ye of what kind of apples ye are, much like thoſe goodly apples of <hi>Sodom</hi> that are of a fair aſpect, but touch them they fall to aſhes, or of that fruit or kernels of thoſe temping apples of Paradiſe; that were pleaſant to the eye and ſeemed good for food, yet had a moſt deadly rotten coar; and therefore the moſt fit for the devils uſe to deceive our ſilly mother <hi>Eve,</hi> whoſe practiſe is yours; becauſe ye know they are the weaker veſſels, or rather vaſſels to you: ye act the devils part of a ſtrong man and take poſſeſſion.</p>
+            <p>
+               <hi>Page 2. line 26. Lay aſide the ſqiut-eyed byaſing reſpects of this adulterous generation, and let conſcience ſpeak.</hi>
+            </p>
+            <p>Sir, firſt I moſt credulouſly beleeve what Mr. <hi>Edwards</hi> doth do to inform of your vicious ways, is for conſcience ſake that you reform them, and not for any ſiniſter or byaſ<g ref="char:EOLhyphen"/>ſing reſpect. Sir, your calling this an adulterous generati<g ref="char:EOLhyphen"/>on, I beleeve it more then others heretofore, and increaſes with your New-Light, becauſe it is adulterate, your name ſhews your nature; Sir, I could give you twenty more of
+<pb n="7" facs="tcp:114101:4"/>
+thoſe very apples you put into Gods eyes to put out ours, with all their ſeveral workings, Antiſcripturians, Antiſa<g ref="char:EOLhyphen"/>batarians, Adamites, Millenaries, Apoſtolicks: all of the brotherens holding, yet the ſiſters are and hold but one, are loving familiſts, hold divorce, however they differ in other your fundamentals, in this they are abſolute.</p>
+            <lg>
+               <l>We Saints more freedom have then other men, <note place="margin">* <hi>Tho. Watſon</hi> in Duck-lane married in Moor-fields by one <hi>Smith</hi> a Tailor, and many more I can nominate.</note>
+               </l>
+               <l>To marry at mid-night, or no matter when;</l>
+               <l>When e'er a ſiſter promiſe, ſhe' lindeaver</l>
+               <l>To keep her word, or do the deed however.</l>
+            </lg>
+            <p>No wonder ye call this an adulterous generation when ye account it a light thing to ſay put cut the candle and kiſs mee.</p>
+            <p>
+               <hi>Page 2. line 27. Who (under God) have been the pillars and only ſupporters of a reeling and tottering State?</hi>
+            </p>
+            <p>Hold, lets have no ſwearing: ſure I am there's lying (if you intend your party of Ildependents;) you the only Pil<g ref="char:EOLhyphen"/>lers and Supporters? do you not (in this) act the part of Allexander the Copper-ſmith, to Brazon out your untruths and notable lies thus? Sir, I know the Ambition of the par<g ref="char:EOLhyphen"/>ty that falſly aſſume to themſelves the <hi>Repairers of our breach, and reſtorers of our pathes to dwell in.</hi> Sirrah, I did veri<g ref="char:EOLhyphen"/>ly beleeve, ye had bin ſo fully ſatiſſfied in this point by that Right-worthy Dr. Iohn Baſtwick; that he had ſtopt all the mouthes of ſuch Railing, Lying, Black-mouth conni<g ref="char:EOLhyphen"/>catching adverſuries, that you had not had the Brazenfaceſt impudence once more to aſſert it, in his moſt induſtrious Book intituled, the <hi>utter Routing of all the Independents and Sectaries</hi> &amp;c. Which Book is to be bought or borrowed at the Book-ſeller ſhop over againſt London ſtone. Unto which Book I recommend the Reader, for this full ſatisfaction there ſhall he read a catalogue of our worthy Pillars, Heroes, Patri<g ref="char:EOLhyphen"/>ots of this Reeling and tottering ſtate; nor then were, or, now are Independents, thoſe that injured ſhe moſt trouble and danger in the heat of the day.</p>
+            <p>
+               <pb n="8" facs="tcp:114101:5"/>
+               <hi>Page</hi> 3. line 14. We could tell the world and you, a tru<g ref="char:EOLhyphen"/>er ſtory of the late Pranks of Mr. <hi>&amp;c.</hi> (whoſe name you know; but we wil ſpare) of his late ſuplanting the Mar<g ref="char:EOLhyphen"/>chant: and getting his eſpowſed Miſtris with child: (which act with all its Circumſtances, we find not in all your gangrein Parralle'd) of Sir, I very well know where your ſhoe pinches you; the late Pranks of Mr. <hi>&amp;c.</hi> or <hi>etcetera,</hi> Sir, I had thought <hi>&amp;c.</hi> had been ſuch a former vexation to you in the oath <hi>Exofficio;</hi> that ever after you would forbare to charg it upon another, Sure this is one like the reſt: if any Presbitarian ſhould ſo diſorderly walk, you would not be ſo meal-mouthed as to forbear to name him; But I rather beleev (in this) you (Iackan-apes like) immi<g ref="char:EOLhyphen"/>tatet the actions of Auicus the Oxford Scribler (Saving in this your Simplicities, you diſcover your ſelf the contrary) that when he wanted novellties; could forg them; ſo you becauſe Mr. Edwards in his <hi>Gangrena</hi> doth juſtly, truly re<g ref="char:EOLhyphen"/>prove you, you unjuſtly, and untrewly intimate, you could ſay ſo or ſo; but I wil tell truth of one of a 100000 thou<g ref="char:EOLhyphen"/>ſand (Mr. Edwards hath not heard of) Mr. <hi>Armſtrong</hi> that on the 10. of March 1647. The day the Parliament order<g ref="char:EOLhyphen"/>ed, to be ſet apart for Publique humiliation: to beſeech Al<g ref="char:EOLhyphen"/>mighty God to ſtop the growth or, increaſe of Heriſies, Blaſſphemies <hi>&amp;c.</hi> He being of a queſie ſtomake to this came into Foſter-lane (he is well known at the dagger) before that Godly miniſter Mr. Norton and Mr. <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> had end<g ref="char:EOLhyphen"/>ed their afternoons Sermon, <hi>Armſtrong</hi> ſaid, have not theſe Fellows done curſing us it? wil teey curſe us all the day? I think they will never have done curſing of us.</p>
+            <p>
+               <hi>P,</hi> 4 <hi>l.</hi> 4. <hi>To carry on the deſign you dewel uſher in a forraign force; the Neatherlands have done you good ſervice,</hi> Sir, your party hath done the devil more. Let any indifferent Reader judg between us, whoſe deſign? yours, or ours; (for now I am of the plurall number too) your deſign are Rebellions Iriſh Hodg-Podg, curdled meſs of all together: or, ours a united, conjealed, Semented, Selected, govern<g ref="char:EOLhyphen"/>ment whoſe deſigne I ſay; is the moſt like to give way too
+<pb n="9" facs="tcp:114101:5"/>
+or uſher in a foraine force: further whether the <hi>Netherlands</hi> have done us good ſervice, is refer'd to Judgement; whether I, or no, I am ſure like Factions to your owne hath done <hi>Ger<g ref="char:EOLhyphen"/>manie</hi> an evill ſervice, yea, has been their utter ruine, and (al<g ref="char:EOLhyphen"/>moſt) totall deſolation. He referte my Judicious Reader to the Hiſtorie of <hi>Anabaptiſts</hi> of High and Low <hi>Germanie;</hi> in which, to his griefe of heart, he may juſtiy feare the like ſad events approaching upon this, by this reproachfull adulterate generation of Vipers.</p>
+            <p>Page 4. line 27. <hi>Sir, you with your Gangrene have been weigh<g ref="char:EOLhyphen"/>ed, and are found too light, and verily your expected Kingdome is departing.</hi> Sir, doe you put your Foole-point here? me thinks your ſemy <hi>(alias)</hi> ſilly Colon, is a ſtop too much: Sir, you with your ſix-leav'd ſcurrulous Pamphlet have beene weigh'd in the Scale of Judgement, &amp; you are found a worth<g ref="char:EOLhyphen"/>leſſe, witleſſe Noddie; Sir, it proclaimes you a meere Mecha<g ref="char:EOLhyphen"/>nick: my <hi>Genius</hi> prompts me, you are by Profeſſion one of theſe two, a Weaver, or Cobler; a Weaver I gueſſe, by that home-ſpun, courſe, groſſe-weaved Fuſtian in your Booke; a Cobler, by your Patching and Borching, nick-named Hereſie, malignant-Prelacie, wyre-drawne-Covenant; yea, a Cobler I could wiſh you the rather, then ſhould I hope in time you'd mend. Reader, I ſhall be carefull to avoid prolixitie, (a thing extremely affected by my <hi>Antagoniſt)</hi> therefore for brevitie ſake I ſhall not trace him in his nonſencicall reiterated lines, but in thoſe of moſt concernment, remembring the wiſe mans <hi>Mandamus, Anſwer not a foole according to his folly, leſt thou be like him.</hi>
+            </p>
+            <p>Page 5. line 19. <hi>Know you not who ſaith, the weapons of our warfare are not carnall: why then, as men distracted, crie ye out ſo loud for Magiſteriall externall force?</hi> Sir, we know the Apoſtle ſo ſaith: in that inſancie of the Goſpel-Doctrine of Jeſus Chriſt, the whole world (almoſt) in oppoſition againſt them, they had nor, nor could have, ſuch Magiſteriall or outward force; yet God inveſted them with Miracles, mightily to compell or convince their (like yours) ſtiffe-necked and un<g ref="char:EOLhyphen"/>circumciſed of heart, which you more cunningly appropriate to tender conſcience: but we have the Precept of Jeſus Chriſt for our example, to inflict corporall, penall puniſhments upon
+<pb n="10" facs="tcp:114101:6"/>
+ſuch incorrigible blaſphemers and offenders. Sir, with a three. ſtring'd whip he yerkt out of the Temple thoſe abuſers of it, <hi>Iohn</hi> 2. inferiour to your ſelves. Sir, can you denie this Legall puniſhment to be a Goſpel-right? and know, if through our ſilence to God, the Magiſtrate, and Miniſters, you ſhould per<g ref="char:EOLhyphen"/>ſiſt in your unholyed unſanctified, unwarranted progreſſe, the very ſtones in our ſtreets (I verily believe) would crie out againſt us.</p>
+            <p>Page 5. line 36. <hi>Ye warre indeed, but it is after the fleſh; no wonder your conqueſt is no more, for the Spirit of the Lord we feare is departed from you.</hi> Pray ye ſpeake ſoftly, give your charitie to ther ſtretch upon the Tenters, or Ile give you rope enough to ſtretch necks. If you, the troublers of our <hi>Iſrael,</hi> were all departed far enough, good enough, to your good new <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> a good riddance: becauſe you ſeparate from us, account your ſelves all the Spirit of the Lord. There is more rea<g ref="char:EOLhyphen"/>ſon, and I rather believe it, <hi>ye are of your father the Devil,</hi> his worke ye doe; then at leaſt, ye are the Devils Journeymen, and I feare hee'l recompence yee. Sir, we warre not after the fleſh, but againſt it, we hold, fight the good fight of Faith; and our conqueſt over you, is the overthrow of your <hi>Babel,</hi> ſo vaſt and unlimited, and all you that contribute your utmoſt aſſi<g ref="char:EOLhyphen"/>ſtance, carrying up your Dung and untempered Mortar to make up the Bulke: in this Fall, or Confuſion, themſelves are loſt in the Rubbiſh.</p>
+            <p>Page 6. line 22. <hi>Tell us not, Sir, of a ſpecious Ordination, any farther then you can atteſt its Divinitie by the concomitancie of the Sp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, we ſhall elſe looke upon it as a meanes to delude the ſim<g ref="char:EOLhyphen"/>ple; tell us not (as your predeceſſors did) of order and decencie in the Church.</hi> Sir, this ſpecious Ordination, which your Faction doth reſtractorily oppoſe we can (and have done with all cir<g ref="char:EOLhyphen"/>cumſtances) prove its Divinitie by the un-erring Spirit of Truth, by the example of Chriſt, that at one time ordained 70 Diſciples, and then ſent them forth, the practiſe of his bleſſed Apoſtles, and ſince in the Primitive Church, in all Ages ſuc<g ref="char:EOLhyphen"/>ceſſively; which I here omit (as I ſaid) to avoid prolixitie. But now Sir, I doe demand of your Il dependant illiterate partie, man or woman, by what ſpecious Ordination, or Call, ordi<g ref="char:EOLhyphen"/>narie or extraordinatie, doe ye intrade your ſelves into our
+<pb n="11" facs="tcp:114101:6"/>
+Pulpits, to infect or touch our Congregations with your Le<g ref="char:EOLhyphen"/>prous Doctrines? In this ye imitate the Devils practiſe. <hi>Iob</hi> 1. <hi>In the day the ſonnes of God appeared before God, Satan likewife came in amongst them</hi> but for hurt and affliction of godly <hi>Iob:</hi> and therefore, this Ordination we uſe it not as a meanes to deceive the ſimple (were ye ſo wiſe as to believe it) but as an Ordinance of Chriſt.</p>
+            <p>
+               <hi>Tell us not of order and decencie in the Church.</hi> Shall I tell ye? if not, worthy M. <hi>Edwards</hi> ſhall tell the world of you: of your too too many diſorders, irreverent Antichriſtian behaviours in all Churches (where ye come) by your pragmaticall ſchiſ<g ref="char:EOLhyphen"/>maticall preaching <hi>(alias)</hi> pratling Buffe-Coats, and others: Ile name but one of 100000, where they piſſed in a Font, and brought a bald horſe in the Church to the Font, and baptized him by the name of <hi>Ball-Eſau,</hi> becauſe ſaid they he was <hi>Harry. Gangrena</hi> 3. And although you will not be told of order and decencie in the Church, I tell ye theſe diſorders and undecent diſtractions and confuſions, the God of order and peace is not the Author of, but the Devill, 1 <hi>Cor.</hi> 14. 33.</p>
+            <p>Page 7. line 18. <hi>Sir, were you a meſſenger of Chriſt, your work would be to goe and preach, and hold forth the everlaſting Gospel, which alone is the arme of God to ſalvation, you would more crie up the ſword of God then of</hi> Gidion, <hi>you would ſee more cogent con<g ref="char:EOLhyphen"/>vincing authority to ſubdue the heart by one Evangelicall</hi> ſcriptum eſt, <hi>then a thouſand politicall</hi> fiat Juſtitia's, <hi>or all the arbitrarie boundleſſe Canonicall</hi> Ipſe Dixit's <hi>in the world.</hi> Sir, this I profeſſe your Maſter-piece. Sir, to doubt M. <hi>Edwards</hi> to be a meſſenger of Chriſt, I account it impertinent, not worth reſolving: His ſervants (or meſſengers) ye are, to whom ye obey. That he obeyes &amp; followes Chriſts precepts, or example, I prove thus: Chriſt his great and principall work was, to redeem the world and ſave it; but his firſt work, as moſt neceſſary, was to confute or convince the world of ſin, and this he began at 12 years age: He had a greater work to doe; yet this (though inferiour) was firſt, as moſt requiſite, to confound &amp; put to ſilence ſuch Rab<g ref="char:EOLhyphen"/>bies and Ring-leaders (as your ſelves, that oppoſed his King<g ref="char:EOLhyphen"/>dome &amp; Doctrine, when he diſputed with thoſe Doctors that were aſtonied at his Wiſdome &amp; Doctrine. This was S. <hi>Pauls</hi> practiſe (a choſen Veſſell of Chriſts by a Call extraordinarie) who fought the good fight of Faith with Beaſts of <hi>Epheſus</hi> (as
+<pb n="12" facs="tcp:114101:7"/>
+M. <hi>Edwards</hi> doth in <hi>England)</hi> after the manner of men: he wrought with his hands, not that every diſpenſer of the Goſ<g ref="char:EOLhyphen"/>pel ſhould doe ſo (as ye doe) but becauſe he would not bring a reproach on the Goſpel of Chriſt (as ye doe.) Sir, tell me now, is there nothing to be done by a Miniſter, or meſſenger of Chriſt but onely to preach? you (as we) well know, where God hath his Church, the Devil hath his Chappell; and though his meſſengers give all diligence, yet the Devils Agents will make Bookes to ſowe their Tares: therefore, there is ſome<g ref="char:EOLhyphen"/>thing more to be done, then onely to preach the everlaſting Goſpel. Surely, M. <hi>Edwards</hi> (in theſe ſad times) holds forth this contention betweene the ſeed of the woman and the ſeed of the Serpent, to be Evangelicall, and approved of by the everlaſting Goſpel, and as the right and ſtrong Arme of God to ſalvation.</p>
+            <p>
+               <hi>You would more crie up the ſword of God, then of</hi> Gidion. Sir, why muſt we have this diſtinction, as if the ſword of <hi>Gi<g ref="char:EOLhyphen"/>dion</hi> was not the Lords? The <hi>Iſraelites</hi> (as we doe) cryed up, <hi>the ſword of the Lord and of Gidion,</hi> or Magiſtrate: This we well know is your way of babbling. Sir, this way of M. <hi>Ed<g ref="char:EOLhyphen"/>wards,</hi> reprehending you and reproving you ſharply (as the Apoſtle commands) is of a great convincing Authoritie to ſubject the heart, and rip off that fore-skin, were not your <hi>Adamite</hi> hearts harder then the Adamant; yea, it would be to you an Evange<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icall <hi>Scriptum eſt.</hi>
+            </p>
+            <p>Page 8. line 8. <hi>The way to Heaven ye tell men, is by the gate of Hell; and more then halfe-damned they muſt be, ere they muſt think of being ſaved: and who but ye (in the deſpaire of poore crea<g ref="char:EOLhyphen"/>tures) ordained to ſpeake peace?</hi> Sir, indeed this Doctrine, ſo much of it as we maintaine, is farre different or ſeperate from your pleaſing one: yet this we know, the way to Heaven is not ſtrewed with ruſhes, and that thoſe which will live godly in Chriſt Jeſus, muſt ſuffer Perſecution, Tribulation, Anguiſh, griefe of heart and mind, &amp;c. This is not (as yours) to nihi<g ref="char:EOLhyphen"/>late the Doctrine of Repentance, but to bring them to humi<g ref="char:EOLhyphen"/>litie to whom God giveth grace; when he reſiſteth ſuch proud, Phariſaicall, high-minded, Soule-murtherers, Bragga<g ref="char:EOLhyphen"/>dochio's, as your ſelves. Is this by the gate of Hell? I am ſure it is the way to know themſelves; a thing ye are moſt ignorant of.</p>
+            <p>
+               <pb n="13" facs="tcp:114101:7"/>
+               <hi>And who but yee ordained to ſpeake peace.</hi> Why Sir who but they? who are ye? are any of you the Prophets, or the ſons of the Prophets? Sir, remember that <hi>Uzziah</hi> was ſtrook (by God) with a Leproſie, for inrruding preſumptuouſly upon the Prieſts Office: I hold you (if Prophets) to be the ſonnes of that old lying Prophet, which countermanded that Prophet ſent on Gods meſſage, who beleeving his lyes, was deſtroyed by a Lion in the way. If we ſhould beleeve your peace, when you ſqueale out <hi>pax, pax,</hi> (as I could inſtance in many your blaſphemous doctrines) we ſhould wholly neglect our eter<g ref="char:EOLhyphen"/>nall and everlaſting peace.</p>
+            <p>Pag. 8. l. 35. <hi>But Sir, in good earneſt let's have more ſence, and leſſe volumes, fower tales and more truths, ſmaller books and bigger Arguments (theſe bum baſt Editions tire all, but ſatisfie none) Reaſons are ſold by weight, and not by tale.</hi> Yea Sir, in ſober ſadneſſe, yee ſhall have more ſence when your illiterate numbers learne to reade, then they'l love to write and ſpeake ſenſe when they cry up Humane earning, and other exter<g ref="char:EOLhyphen"/>nall properties, as theſe unlearned Rabbies account them; till when theſe volumes of neceſſity muſt increaſe with your Numbers; you ſhall have fewer tales and more truths, when you forget your lying Mother-tongue, as well as your Latin one; for take this for truth, ſo long as vee pray, preach, diſ<g ref="char:EOLhyphen"/>pute nonſence, lyes, and thoſe knaveries y'are aſhamed to owne; in your own dialect they ſhall be repeated, and thrown as dung in your face; and then ſhall you have more weigh<g ref="char:EOLhyphen"/>tier Reaſons of the Sunne, when ſuch Moon-calves ſhall be brought to the Knowledge and Love of God and of his Wiſ<g ref="char:EOLhyphen"/>dome and Truth, and to love and Charity to their brethren.</p>
+            <p>Now he comes to a ru<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fe draught of a ſimple Inventory of Mr <hi>Edwards</hi> Books; this hairy ruffeneſſe ſhewes them to be of the hated brood of <hi>Eſau,</hi> whoſe hoary-hairy ſcapes God doth and ſhall ſmite with a frenzie lunacie, which they call illumination of the ſpirit. <hi>Imprimis, given to the Honourable Houſe of Commons, out of hopes to finde favour there, ſo many Bookes.</hi> Sir, what you call hopes. I can affirme is, he hath aſ<g ref="char:EOLhyphen"/>ſurance to finde favour with the Honourable Houſe of Com<g ref="char:EOLhyphen"/>mons, the King, and Houſe or Lords too, yea with the Aſ<g ref="char:EOLhyphen"/>ſembly of Divines, and all the knowing Orthodox men in
+<pb n="14" facs="tcp:114101:8"/>
+Chriſtendome: Sir ſeed not your fancies with vaine hopes of the late brags you made of the ſtrength of your Party in the Parliament-Houſes, Armies and Kingdome; theſe are but meer ſcar-crow<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s which your unlicenſed Printing-Preſſe hath divulg'd, of which <hi>Overton</hi> in <hi>Newgate</hi> can give teſti<g ref="char:EOLhyphen"/>mony, as well as <hi>Lilburne</hi> in the <hi>Tower. Item, given to your reverend ſelfe for your reverend Copy ſo many</hi> 40. s. <hi>in dry money (too much by 39. in ſo dry a bargaine)</hi> See Reverend Mr. <hi>Ed<g ref="char:EOLhyphen"/>wards</hi> (if you were not of the viperous Generation) is Right Worthy by you to be revernced as your beſt and moſt reve<g ref="char:EOLhyphen"/>rend Maſter or Tutor, and therefore take warning that if you perſiſt to briſtle up your prick-eares at him, with your wild<g ref="char:EOLhyphen"/>lookt meager countenance, that hee, or ſome in his behalfe ſhall pick your guberd teeth with ſuch a bed ſtaffe as Dr. <hi>Ba<g ref="char:EOLhyphen"/>ſtwick</hi> did. <hi>Item, given to a Schoole-boy, to correct your falſe Latin, and other amendments, 40. s. in dry money, (too much by 39. in ſo dry a bargaine.)</hi> Sir, he that can write true Latin, can as truly correct it as Mr. <hi>Edwards</hi> doth himſelfe. But Sir if you have not broke <hi>Priſcians</hi> head more than once, Ile give you leave to breake mine: But Ile take the paines as I would give you correction, to correct your Page laſt, line firſt, <hi>Am<g ref="char:EOLhyphen"/>bobus manibus iterum iterumque approbatar,</hi> which I thus cor<g ref="char:EOLhyphen"/>rect, <hi>Ambabus manibus iterumque iterumque approbatur.</hi> Sir, for the reſt of the Inventory, it is ſo full of nonſenſicall ſim<g ref="char:EOLhyphen"/>plicitie not worth the repeating, or anſwering; yet for the Readers ſatisfaction let him judge. <hi>Item, given to the Gre<g ref="char:EOLhyphen"/>cian, for helping you to the Originalls, and filling up the Hebrew blanks 59. ſhillings and 3. groats:</hi> I feare you want one groats<g ref="char:EOLhyphen"/>worth of wit. <hi>Item, ſo many ſold for little or nothing, to the Exchange, to Grocers, Cookes, &amp;c. Item ſo many ſequestered for my own proper uſe, in my ſtudy behinde the doore (alias the houſe of Office) and for my ſervants ſo many;</hi> and many more ſuch like Items: But Sir, take this one <hi>Item</hi> from me, that if theſe thin leav'd empty volumes of a ſheet and a halfe, and your ſawcie lyes in them ſhall ſtill be vented againſt the Par<g ref="char:EOLhyphen"/>liament, Aſſembly, Church of <hi>England,</hi> Mr. <hi>Edwards,</hi> Dr. <hi>Baſtwicke,</hi> Mr. <hi>Pryn,</hi> &amp;c. Ile publiſh to the world your illi<g ref="char:EOLhyphen"/>cerate, mechanick, nonſenſicall cobled-fuſtian-Tubbers, men
+<pb n="15" facs="tcp:114101:8"/>
+and women, the names and qualities of ſome of them for this time Ile but nominate, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Wyet</hi> a Cobler,</item>
+               <item>
+                  <hi>Robin</hi> a Sadler,</item>
+               <item>
+                  <hi>Lamb</hi> a Sopeboiler,</item>
+               <item>
+                  <hi>Bignall</hi> a Porter.</item>
+               <item>
+                  <hi>Kiffin</hi> a Glover,</item>
+               <item>
+                  <hi>Tue</hi> a Girdler,</item>
+               <item>Major <hi>Tulidagh</hi> a Scot.</item>
+               <item>
+                  <hi>Patience</hi> a Taylor.</item>
+               <item>
+                  <hi>Parvis</hi> a Goldſmith.</item>
+               <item>
+                  <hi>Barebones</hi> a Leatherſeller.</item>
+               <item>
+                  <hi>Henſhaw</hi> a Confectioner, <hi>(alias</hi> Infector.)</item>
+               <item>
+                  <hi>Bulcher</hi> a Chicken-man <hi>(alias,</hi> dead and alive.)</item>
+            </list>
+            <p>Theſe and 40. more for the men-preachers; and for your women-Tubbers, <hi>alias</hi> Dubbers, my Muſe ſhall onely ſing of one.</p>
+            <lg>
+               <lg>
+                  <l>The Church of <note n="*" place="margin">
+                        <hi>Revel.</hi> 2.</note> Thyatyrah threatned ſore,</l>
+                  <l>For ſuffering <hi>Jezabell,</hi> that Scarlet Whore,</l>
+                  <l>Thus to ſeduce Gods people, and to teach</l>
+                  <l>Them diſobedience, yee (poore ſoules) bewitch</l>
+                  <l>Them her to follow; Like her, ſuch another,</l>
+                  <l>Sold Bone-lace in Cheapſide, that had a Brother</l>
+                  <l>Did walke diſorderly, him to befriend</l>
+                  <l>For his Converſion, at a Tables end</l>
+                  <l>Did take a Text, and boldly did deſcant,</l>
+                  <l>The lawfulneſſe to Preach of a ſhe-ſaint,</l>
+                  <l>Inform'd her Auditory, that there was</l>
+                  <l>More need ſhe edifie 'em, then ſell Lace;</l>
+                  <l>And that her zeale, piety, and knowledge,</l>
+                  <l>Surpaſt the graveſt Student in the Colledge,</l>
+                  <l>Who ſtriv'd thus Humane Learning to advance,</l>
+                  <l>She with her Bible and a Concordance,</l>
+                  <l>Could Preach nine times a weeke, morning and night,</l>
+                  <l>Such revelations had ſhe from new light.</l>
+                  <l>The tedions, godleſſe, non-ſence ſermon ended,</l>
+                  <l>Her ſainted Convert, whom ſhe thus befriended,</l>
+                  <l>Deſir'd a private Application,</l>
+                  <l>Unto the point in Agitation.</l>
+               </lg>
+               <lg>
+                  <l>The Feaſt when ended, and the Saints all gone,</l>
+                  <l>Who left behinde a large Collection.</l>
+                  <l>"Deare Brother, ſaid ſhe, if you would be wiſe,</l>
+                  <l>"Ile teach you how your gifts to exerciſe;</l>
+                  <l>"One Concordance will ſerve us both to note;</l>
+                  <l>"Such Scriptures as wee'l eaſily get by roat:</l>
+                  <pb n="16" facs="tcp:114101:9"/>
+                  <l>He with her wind of Doctrine led away,</l>
+                  <l>For ſooke his wife, with her went over Sea,</l>
+                  <l>So ſhe her husband, where they both expreſt</l>
+                  <l>Each others gifts, I bluſh to preach the reſt.</l>
+               </lg>
+            </lg>
+            <p>Sir, that this eſtimate is more infailible than yours, to which ye: ſubſcribed <hi>R. S.</hi> I have likewiſe annexed <hi>G. L.</hi> for the honeſt Reader to judge. Reader this <hi>R. S.</hi> or <hi>Ralph Smith</hi> is the Book-ſeller that prints and publiſheth Mr. <hi>Edwards Gangrena's;</hi> Sir, if hee ſhould make ſuch a lame account as you bring, he would ſhew little wiſdome to re-print ſuch vo<g ref="char:EOLhyphen"/>lumes: But ſirrah, this is like one of your falſities you ſaid of Dr. <hi>Baſtwicks, viz. That his Bookes had made more Indepen<g ref="char:EOLhyphen"/>danss then they had deſſwaded from it.</hi> And Sir, for that whib<g ref="char:EOLhyphen"/>ling ſcandalous Pamphlet, call'd <hi>A ſudden Anſwer to Dr.</hi> Baſtwicks <hi>utter routing of all the Independants and ſectaries,</hi> of one ſheet of paper, in which you undertake to anſwer his 100 ſheets; But becauſe it is not worth his while to reply too't; I ſhall (God willing) give any indifferent Reader a full and good account to anſwer in your owne Dialect excepting your rayling and lying, &amp;c. Sir, let me (for your owne ſake) de<g ref="char:EOLhyphen"/>ſire you as a Chriſtian Brother, to recall theſe paſſions, and reclaime them, to ſet Chriſt before you as the trueſt pattern to learne of him to be meek, humble, lowly in your owne eyes, this will raiſe you to a high pitch of piery and accep<g ref="char:EOLhyphen"/>tance with Almighty God.</p>
+            <p>Sir, let me exhort ye as a Chriſtian Brother, to ſet Chriſts bleſſed Apoſtle S. <hi>Peter</hi> as a true pattern before you to imi<g ref="char:EOLhyphen"/>tate him (in your unerring Church) although S. <hi>Paul</hi> repro<g ref="char:EOLhyphen"/>ved S. <hi>Peter, Gal. 2. 11. But when Peter was come to Antioch, I with ſtood him to the face, becauſe he was to be blamed; yet Pe<g ref="char:EOLhyphen"/>ter</hi> of that godly knowledge doth acknowledge and approve of all <hi>S. Pauls</hi> Epiſtles, 2 <hi>Pet. 3. 15. 16. And accouns that the long-ſuffering of our Lord is ſalvation, even as our beloved bro<g ref="char:EOLhyphen"/>ther Paul aſo, according to the wiſdome given unto him, hath written unto you. As alſo in all his Epiſtles ſpeaking in them of theſe things, in which are ſome things hard to bee underſtood, which they that are unlearned and unſtable, wreſt as they doe al<g ref="char:EOLhyphen"/>ſo the other Scriptures, unto their owne deſtruction.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
